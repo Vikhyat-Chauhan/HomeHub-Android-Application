@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081274267309",
+    "firebase_url": "https://homehub-ac6e6.firebaseio.com",
+    "project_id": "homehub-ac6e6",
+    "storage_bucket": "homehub-ac6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081274267309:android:23c8dbd6dbe9359c613824",
+        "android_client_info": {
+          "package_name": "in.thenextmove.homehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081274267309-9j91jm4phqoa7fs42rh51eqvi6kfcpda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.thenextmove.homehub",
+            "certificate_hash": "8ca151d7f6d4dbd82db32236edd02c3026157d4d"
+          }
+        },
+        {
+          "client_id": "1081274267309-gsd5b7nnn3i7k2ou42rbdoigkk6c4g9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2RoOjbQq-UNPgsj9F9XqNU0OHb5ZGPI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081274267309-gsd5b7nnn3i7k2ou42rbdoigkk6c4g9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
